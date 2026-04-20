@@ -1,0 +1,16 @@
+
+{
+  "name": "Energy Consumption Forecasting",
+  "description": "A web application that visualizes historical energy consumption data and uses AI to forecast future trends. It provides an interactive chart and detailed analysis of the forecasted data.",
+  "type": "service_account",
+  "project_id": "certain-tangent-475514-p8",
+  "private_key_id": "7bfe27a8ae7dc49b2fe5049c658a6b390ec773af",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfaJKYvh7okKVl\nsedD6+hyFcq7QEoL1yboEqXYl4FJmoITAQtAgVWw0zf82F+PdDLp3vMWBWpUy00b\nwmu+ec71BpgsSBIpVT/boq+l7tjgwVwIvhqETdc5x2HhfCIn+smkG+18tzxKK9xz\nMJKqu6bvdaIfbsZKuQ53Rhn+LQHuqV13ccY/kbgG9UBETy2THmRiRye1WJcm84zd\nMT4w/ULyov8mSzVcM/Pu3Vy4Lr2ykbi0QiE+Segf5GsuvCuw/OJ+L/5RglgWC2bH\nMa0Sii1hBSIhGtxjElEsWK8q0HH9OcgzI/tJ80V/INWrB2d9h5npHHPx8axmAPTd\nV2vrYmj3AgMBAAECggEALINagE2CuwV9MicaAbTz/TuJl31Nz/2d7ysZ5Z/06dU7\n4kul1Tboc06f8TqIgLn9Z6Iqtij/9rqohwpk5NUFzhUv1Bmx/JnCEbZdnxPRuv0z\nkntnUy+bXJaJBhqQPSLCQNHNoMhYDQwvbHkRU5y/8lkiUu2vcHk5iWPpaTkvM3Hl\n/PLfjfwKEq+TY0peN4PkO/4a/jQXm+86TfK5npOWOlJWAKrTYUdZiwojDeaociEb\nF/BgoPzCiRYL8qkRpksgWnFVzs1fvAw4+eqt6WtPdKtSyS3jr4bexVjZjuIJjxrj\nWW5prf0RzKkaxDm6EqN/3311g13iAtLaxTykJBUSCQKBgQDPKHS/cIPa1uxIzwIw\nWxz4SBj+mdzDEt/a1x/BbpXjzPwqu70/keu2Pad/KbqAE7gWJJOTurH5/g/BYBn0\nj/QJ8oHCrUcMkyorfpxVAkZEYPo7ircLytbe6cfVm1c89IFGxVlTUSjcM2eXt9l6\nY81m2gNwmXh+ODcHj5DApbRWbwKBgQDE/hKgBZvVnA+DJrAOksicWAiWUA8anbMv\nIQuKjErr4a4D8VhOS44xpHw0zap9sRHWo/kMcTpWq/mQo3w9HHMLw6WOdarwLFbi\nE2HY148brKqE8HtKK+j3AK1qg9Vi7dBw3J7Oml0Qj/RsErBjM66t+kyDK3Av9248\nnk9nNs6Z+QKBgFKLaknGCaQvs6MnaVXfWGHOSLdak87fPHe09KBc8jj9OxXEDRrB\niEzrsExJUlkqglXAaVWaNMTKaXjCVFVQ7wrvqKjr5r2p/kmqf5yX9WvVwJ/tHBcE\n0i2stcX1ygMt4j1S8c7zLfbgPM0FoxDTp8rt4CUD4jFZMQRAPouk+4DdAoGAP6tW\n3b2yVmIwaVVRxgQPLukNLXgGybV6uprVnhwmAwNYORICVpv5A3aEZpSqrCFVAKjS\n0ACwuF6xNNyCRUYysPS1R8wkSagrFLrq/yj8qhcurfUEBD8Y9uyTIEAn8eenXTMR\naPlfZwEAIQYRWJ7VsImbvTGG+xnf2VvZkiSWthECgYBJObiS0VMzCb3XUhQW65R0\nF54bYlXbJWoi7BpOa7ORreZtDJsyM4SdlhogL9xMy6vzBgzkjFaL5Rcicks/o8NS\nseltXZTse8rhnnxNNcV560hXAyIbSF8gcFuRv9WZZoaO1S3hWJ04Hp+qBynQolM1\nOyBLluLHMSt4ECbKAUH0NQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "energy-consumption@certain-tangent-475514-p8.iam.gserviceaccount.com",
+  "client_id": "105884469939024886848",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/energy-consumption%40certain-tangent-475514-p8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
